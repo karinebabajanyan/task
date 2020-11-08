@@ -28,3 +28,5 @@ ID, тема, сообщение, имя клиента, почта клиент
 
 Admin login - admin@admin.com
 	password - poswword
+  
+Work time: 14 houre
